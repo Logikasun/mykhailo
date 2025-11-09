@@ -46,6 +46,11 @@ h1, h2 {
     text-align: center;
 }
 .top_2_img img{
+    height: 30%;
+    width: 30%;
+    border: 10px double #4b540ebf;
+}
+.top_2_img img:hover{
     height: 40%;
     width: 40%;
     border: 10px double #4b540ebf;
